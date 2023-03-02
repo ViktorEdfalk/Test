@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Birder",
+    "version": "1.0.0",
+    "description": "A simple plugin that demonstrates how to use the Runelite API.",
+    "author": "John Doe",
+    "dependencies": [
+      {
+        "name": "Runelite API",
+        "version": "latest.release"
+      },
+      {
+        "name": "Project Lombok",
+        "version": "1.18.20"
+      }
+    ],
+    "fileName": "birder-1.0.jar"
+  }
+]
